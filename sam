@@ -1,0 +1,15 @@
+java -version
+sudo addgroup
+
+su - hduser
+password
+cd
+pwd
+
+
+
+                     2nd practical
+                     
+                     
+start-all.sh
+sudo cp Downloads/dsbda/gruopA/ass2/* ./analyze_log/                  
